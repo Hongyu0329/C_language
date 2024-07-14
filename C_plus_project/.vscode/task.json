@@ -4,12 +4,12 @@
         {
             "label": "build",
             "type": "shell",
-            "command": "g++",
+            "command": "gcc",
             "args": [
                 "-g",
-                "C:/Users/htwan/OneDrive/Documents/C_language/Src/main.cpp",
+                "/Users/hongyu/Documents/C_language/Src/main.cpp",
                 "-o",
-                "C:/Users/htwan/OneDrive/Documents/C_language/build/main.exe",
+                "/Users/hongyu/Documents/C_language/build/main.exe",
                 "-mconsole"
             ],
             "group": {

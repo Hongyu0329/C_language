@@ -1,0 +1,22 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "build",
+            "type": "shell",
+            "command": "clang",
+            "args": [
+                "-g",
+                "/Users/hongyu/Documents/C_language/C_project/src/main.c",
+                "-o",
+                "/Users/hongyu/Documents/C_language/C_project/bin/main"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "problemMatcher": ["$gcc"],
+            "detail": "Generated task by ChatGPT"
+        }
+    ]
+}

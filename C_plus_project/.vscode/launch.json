@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/htwan/OneDrive/Documents/C_language",
-      "program": "c:/Users/htwan/OneDrive/Documents/C_language/build/Debug/outDebug",
+      "cwd": "/Users/htwan/Documents/C_language",
+      "program": "/Users/htwan/Documents/C_language/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
