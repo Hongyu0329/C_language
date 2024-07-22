@@ -1,9 +1,11 @@
 #include<stdio.h>
-#include"cs50.h"
 
 int main()
 {
-    printf("hello world");
+    for(int i=0; i<4; i++)
+    {
+        printf("%i\n", i);
+    }
     return 0;
 }
 

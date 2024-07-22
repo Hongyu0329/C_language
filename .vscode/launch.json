@@ -9,7 +9,7 @@
       "stopAtEntry": false,
       "externalConsole": true,
       "cwd": "c:/Users/htwan/OneDrive/Documents/C_language/Src",
-      "program": "c:/Users/htwan/OneDrive/Documents/C_language/Src/build/Debug/outDebug",
+      "program": "${workspaceFolder}/bin/string",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
