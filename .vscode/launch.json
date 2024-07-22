@@ -1,6 +1,7 @@
 {
   "version": "0.2.0",
   "configurations": [
+    
     {
       "name": "C/C++ Runner: Debug Session",
       "type": "cppdbg",
@@ -9,7 +10,7 @@
       "stopAtEntry": false,
       "externalConsole": true,
       "cwd": "c:/Users/htwan/OneDrive/Documents/C_language/Src",
-      "program": "${workspaceFolder}/bin/string",
+      "program": "${workspaceFolder}/bin/pymaid",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
